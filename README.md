@@ -1,4 +1,4 @@
-# To run nihal-profile
+# README file for setup:
 
 On Linux:
 1. Install any webserver on your system
